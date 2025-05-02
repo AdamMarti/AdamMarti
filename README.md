@@ -15,7 +15,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adammarti&" alt="adammarti" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adammarti" alt="adammarti" /></a> </p>
+<!--
+**p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adammarti" alt="adammarti" /></a> </p>
+-->
 
 <!--
 **AdamMarti/AdamMarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
