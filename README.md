@@ -1,4 +1,9 @@
 ## Hi there 👋
+* 👂 My name is Adam
+* 👩 Pronouns: He/Him
+* 🔭 I’m currently enrolled in the Master of Bioinformatics for Health Sciences at UPF
+* 📫 How to reach me: martigarciaadam@gmail.com
+  
 
 <!--
 **AdamMarti/AdamMarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
